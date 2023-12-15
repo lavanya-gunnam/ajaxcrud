@@ -1,0 +1,16 @@
+{
+  "employess": [
+    {
+      "first_name": "lavanya",
+      "last_name": "gunnamaaa",
+      "email": "de@gmail.com",
+      "id": 1
+    },
+    {
+      "first_name": "lavanya",
+      "last_name": "maddukuri",
+      "email": "sde@gmail.com",
+      "id": 2
+    }
+  ]
+}
